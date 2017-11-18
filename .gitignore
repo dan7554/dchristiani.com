@@ -1,0 +1,7 @@
+node_modules/
+bundle.js
+awsPush.sh
+package-lock.json
+.vscode/
+dockerRun.sh
+killContainers.sh
